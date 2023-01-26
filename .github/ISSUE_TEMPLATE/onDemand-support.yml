@@ -1,7 +1,7 @@
 name: 📼 On Demand Support
 description: Bug/issue realted to on demand
 title: '[issue]<title>'
-labels: ['On Demand: bug']
+labels: ['On Demand: bug', 'prod success incident']
 body:
   - type: markdown
     attributes:

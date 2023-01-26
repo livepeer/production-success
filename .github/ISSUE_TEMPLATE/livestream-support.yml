@@ -1,7 +1,7 @@
 name: 🎥 Livestream Support
 description: Bug/issue realted to livestream
 title: '[issue]<title>'
-labels: ['Livestream: bug']
+labels: ['Livestream: bug', 'prod success incident']
 body:
   - type: markdown
     attributes:
