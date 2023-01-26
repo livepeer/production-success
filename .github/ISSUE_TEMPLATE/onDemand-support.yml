@@ -62,7 +62,7 @@ body:
       description: |
         This makes investigating issues and helping you out significantly easier! For most issues, you will likely get asked to provide one so why not add one now :)
     validations:
-      required: false
+      required: true
 
   - type: textarea
     attributes:
