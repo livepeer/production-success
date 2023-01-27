@@ -51,21 +51,21 @@ body:
     validations:
       required: true
 
-  # - type: dropdown
-  #   attributes:
-  #     label: Broadcaster
-  #     options:
-  #       - OBS
-  #       - FFmpeg
-  #       - Streamaxia
-  #       - Restream
-  #       - Streamlabs
-  #       - vMix
-  #       - Wirecast
-  #       - XSplit
-  #       - Other
-  #   validations:
-  #     required: true
+  - type: dropdown
+    attributes:
+      label: Broadcaster
+      options:
+        - OBS
+        - FFmpeg
+        - Streamaxia
+        - Restream
+        - Streamlabs
+        - vMix
+        - Wirecast
+        - XSplit
+        - Other
+    validations:
+      required: true
 
   # - type: dropdown
   #   attributes:
@@ -87,14 +87,14 @@ body:
   #   validations:
   #     required: true  
 
-  - type: dropdown
-      attributes:
-        label: Keyframe Interval
-        options:
-          - 2
-          - Other
-      validations:
-        required: true    
+  # - type: dropdown
+  #     attributes:
+  #       label: Keyframe Interval
+  #       options:
+  #         - 2
+  #         - Other
+  #     validations:
+  #       required: true    
 
   - type: textarea
     attributes:
