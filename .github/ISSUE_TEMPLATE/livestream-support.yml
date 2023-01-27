@@ -91,7 +91,7 @@ body:
       attributes:
         label: Keyframe Interval
         options:
-          - 2
+          - two
           - Other
       validations:
         required: true    
