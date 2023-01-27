@@ -67,16 +67,16 @@ body:
     validations:
       required: true
 
-  # - type: dropdown
-  #   attributes:
-  #     label: FPS
-  #     options:
-  #       - 24
-  #       - 25
-  #       - 30
-  #       - 60
-  #   validations:
-  #     required: true
+  - type: dropdown
+    attributes:
+      label: FPS
+      options:
+        - 24
+        - 25
+        - 30
+        - 60
+    validations:
+      required: true
 
   # - type: dropdown
   #   attributes:
