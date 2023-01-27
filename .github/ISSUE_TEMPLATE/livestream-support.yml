@@ -77,7 +77,7 @@ body:
         - 60
     validations:
       required: true
-
+      
   - type: dropdown
     attributes:
       label: Pixel format
