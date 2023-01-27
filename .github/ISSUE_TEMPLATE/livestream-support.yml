@@ -10,10 +10,10 @@ body:
 
   - type: checkboxes
     attributes:
-      label: Is there an existing issue for this?
-      description: Please search to see if an issue already exists for the bug you encountered.
+      label: Is there an existing issue or discussion for this?
+      description: Please search to see if an issue or discussion already exists for the bug you encountered.
       options:
-        - label: I have searched the existing issues
+        - label: I have searched the existing issues and discussions
           required: true
 
   - type: dropdown
@@ -50,6 +50,51 @@ body:
         - SRT Ingest
     validations:
       required: true
+
+type: dropdown
+    attributes:
+      label: Broadcaster
+      options:
+        - OBS
+        - FFmpeg
+        - Streamaxia
+        - Restream
+        - Streamlabs
+        - vMix
+        - Wirecast
+        - XSplit
+        - Other
+    validations:
+      required: true
+
+  - type: dropdown
+    attributes:
+      label: FPS
+      options:
+        - 24
+        - 25
+        - 30
+        - 60
+    validations:
+      required: true
+
+    - type: dropdown
+    attributes:
+      label: Pixel format
+      options:
+        - YUV4:2:0
+        - Other
+    validations:
+      required: true
+
+    - type: dropdown
+    attributes:
+      label: Keyframe Interval
+      options:
+        - 2
+        - Other
+    validations:
+      required: true    
 
   - type: textarea
     attributes:
