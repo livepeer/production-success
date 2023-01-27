@@ -88,13 +88,13 @@ body:
       required: true  
 
   - type: dropdown
-      attributes:
-        label: Keyframe Interval
-        options:
-          - two
-          - Other
-      validations:
-        required: true    
+    attributes:
+      label: Keyframe Interval
+      options:
+        - 2
+        - Other
+    validations:
+      required: true   
 
   - type: textarea
     attributes:
