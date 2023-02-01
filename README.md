@@ -25,6 +25,8 @@
 
 ## Getting Started
 
+Vists our [GitHub Discussions](https://github.com/livepeer/support/discussions) to find annswers to our FAQs.
+
 Visit <a aria-label="Livepeer Studio guides" href="https://docs.livepeer.org/guides/overview">https://docs.livepeer.org/guides/overview</a> to get started with Livepeer Studio.
 
 ## Documentation
