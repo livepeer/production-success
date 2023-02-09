@@ -16,6 +16,13 @@ body:
         - label: I have searched the existing issues and discussions
           required: true
 
+  - type: checkboxes
+    attributes:
+      label: If SDK related, I am using the latest version
+      options:
+        - label: Using latest SDK version
+          required: true
+
   - type: dropdown
     attributes:
       label: Issue
