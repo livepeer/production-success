@@ -10,16 +10,13 @@
 
 <p align="center">
   <a aria-label="SDK version" href="https://docs.livepeer.org/reference/livepeer-js">
-    <img alt="" src="https://img.shields.io/github/v/release/livepeer/livepeer.js?style=plastic">
+    <img alt="" src="https://img.shields.io/npm/v/livepeer?colorA=2B323B&colorB=1e2329&style=flat&label=Version">
   </a>
   <a aria-label="License" href="https://github.com/livepeer/studio/blob/master/LICENSE">
-    <img alt="" src="https://img.shields.io/npm/l/next.svg?style=plastic">
+    <img alt="" src="https://img.shields.io/github/license/livepeer/livepeer.js?colorA=2B323B&colorB=1e2329&style=flat&label=License">
   </a>
-  <a aria-label="License" href="https://github.com/livepeer/studio/blob/master/LICENSE">
-    <img alt="" src="https://img.shields.io/discord/423160867534929930.svg?style=plastic">
-  </a>
-  <a aria-label="Join the community on Discord" href="https://discord.gg/livepeer">
-    <img alt="" src="https://img.shields.io/badge/Join%20Discord-blueviolet.svg">
+  <a aria-label="Join Discord" href="https://discord.gg/livepeer">
+    <img alt="" src="https://img.shields.io/badge/Discord-1e2329">
   </a>
 </p>
 
