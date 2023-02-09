@@ -20,7 +20,7 @@ body:
     attributes:
       label: If SDK related, I am using the latest version
       options:
-        - label: Using latest SDK @version
+        - label: Using latest SDK version
           required: true        
 
   - type: dropdown
