@@ -40,4 +40,4 @@ The Livepeer community can be found on [GitHub Discussions](https://github.com/l
 
 To chat with other community members you can join our [Livepeer Discord](https://discord.gg/livepeer).
 
-Our [Code of Conduct](https://github.com/livepeer/support/blob/577b4bedf507bedbd1db03b67970ed947e635e99/CODE_OF_CONDUCT.md) applies to all Livepeer community channels.
+Here is our [Code of Conduct](https://github.com/livepeer/support/blob/577b4bedf507bedbd1db03b67970ed947e635e99/CODE_OF_CONDUCT.md) applies to all Livepeer community channels.
